@@ -9,11 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+[Download CV here](https://fer.github.io/files/cv.pdf)
+
+<!--Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, University of Colima, 2012
+* Ph.D in Physics, University of Houston 2028 (expected)
 
 Work experience
 ======
