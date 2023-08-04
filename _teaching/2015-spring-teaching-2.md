@@ -1,14 +1,13 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
+type: "College Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Houston, Department of Physics"
+date: 2023-07-10
+location: "Houston, Texas"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+TA at the Dual Program with The University of Houston and Dalian Maritime University (UH-DMU) International Institute.
 
 Heading 1
 ======
