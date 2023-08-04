@@ -7,7 +7,7 @@ venue: "University of Houston, Department of Physics"
 date: 2023-07-10
 location: "Houston, Texas"
 ---
-TA at the Dual Program with The University of Houston and Dalian Maritime University (UH-DMU) International Institute.
+TA at the Dual Program with The University of Houston and Dalian Maritime University International Institute (UH-DMU).
 
 Heading 1
 ======
