@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Fernanda Torres"
 title_separator          : "-"
 name                     : &name "Fernanda Torres"
-description              : &description "PhD Student at UH"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://fer.github.io"
+description              : &description "PhD Student at University of Houston"
+url                      : https://fer.github.io # the base hostname & protocol for your site e.g. "https://fer.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mtorresc15/fer.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Fernanda Torres"
-  avatar           : "profile.png"
+  avatar           : "Profile.png"
   bio              : "PhD student at University of Houston in Physics"
-  location         : "Houston"
-  employer         :
+  location         : "Houston, Texas"
+  employer         : "Research Assistant"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=rt-maR4AAAAJ"
   email            : "mftorrescabrera@uh.edu"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/mtorresc15"
+  github           : "mtorresc15"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "https://www.linkedin.com/in/maria-fernanda-torres-cabrera-820949244/"
+  linkedin         :  "maria-fernanda-torres-cabrera-820949244/"
   orcid            : "https://orcid.org/0000-0003-3202-6806"
   pinterest        :
   soundcloud       :

@@ -12,7 +12,7 @@ redirect_from:
 [Download CV here](https://fer.github.io/files/cv.pdf)
 
 <!--Education
-======
+====== 
 * B.S. in Physics, University of Colima, 2012
 * Ph.D in Physics, University of Houston 2028 (expected)
 
