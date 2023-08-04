@@ -4,12 +4,9 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume 
 ---
 
-{% include base_path %}
-
-[Download CV here](https://fer.github.io/files/cv.pdf)
 
 <!--Education
 ====== 
